@@ -2,4 +2,4 @@
 Created AI Based Chat bot that interact with Application method and provide results
 
 #AI Model
-The current version of code requires ollama to be in running in you local
+The current version of code requires ollama to be in running in you local in port number 11434
