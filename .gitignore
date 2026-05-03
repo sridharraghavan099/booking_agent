@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ChatBot_Console/obj/Debug/net10.0/ref/ChatBot_Console.dll
+/.vs/booking_agent.slnx/FileContentIndex/4fce76c2-771c-4256-a399-74c9695a750c.vsidx
+/.vs/booking_agent.slnx/FileContentIndex/e81ded74-1bd0-43c9-b2c8-371ebe8b774e.vsidx
+/ChatBot_Console/obj/Release/net10.0
+/ChatBot_Console/obj/Debug/net10.0/refint/ChatBot_Console.dll
+/ChatBot_Console/bin/Debug/net10.0/ChatBot_Console.dll
+/ChatBot_Console/obj/Debug/net10.0/ChatBot_Console.sourcelink.json
+/ChatBot_Console/obj/Debug/net10.0/ChatBot_Console.pdb
+/ChatBot_Console/obj/Debug/net10.0/ChatBot_Console.genruntimeconfig.cache
+/ChatBot_Console/obj/Debug/net10.0/ChatBot_Console.dll
+/ChatBot_Console/obj/Debug/net10.0/ChatBot_Console.AssemblyInfo.cs
+/ChatBot_Console/obj/Debug/net10.0/ChatBot_Console.AssemblyInfoInputs.cache
+/ChatBot_Console/obj/Debug/net10.0/ChatBot_Console.assets.cache
+/ChatBot_Console/obj/Debug/net10.0/ChatBot_Console.csproj.FileListAbsolute.txt
+/ChatBot_Console/obj/Debug/net10.0/ChatBot_Console.GeneratedMSBuildEditorConfig.editorconfig
+/ChatBot_Console/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+/ChatBot_Console/obj/Debug/net10.0/apphost.exe
+/ChatBot_Console/bin/Debug/net10.0/ChatBot_Console.exe
+/ChatBot_Console/bin/Debug/net10.0/ChatBot_Console.pdb
+*.json
+*.sqlite
+*.wsuo
+*.vsidx
